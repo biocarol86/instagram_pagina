@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 
-### Projeto realizado na aula do Bootcamp de HTML da Digital Innovation One.
+### Projeto realizado na aula do Bootcamp de HTML Web Developer da Digital Innovation One.
 ### Linguagens usadas no desenvolvimento do projeto: 
 
 -CSS
